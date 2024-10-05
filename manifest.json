@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "MemeBuddy",
+    "version": "1.0",
+    "author": "William Hebden",
+    "description": "Capture screenshots, send them to OpenAI, and read the results aloud.",
+    "permissions": ["activeTab", "scripting", "storage", "tabs", "downloads"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["contentScript.js"]
+      }
+    ],
+    "commands": {
+      "capture-screenshot": {
+        "suggested_key": {
+          "default": "Ctrl+Shift+L"
+        },
+        "description": "Capture screenshot and send to API"
+      }
+    }
+  }
+  
