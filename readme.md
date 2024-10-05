@@ -1,7 +1,7 @@
 # MemeBuddy: Making memes accessible for the visually impaired.
 
 ## Mission Statement
-In a world where visual media dominates online interactions, memes and images have become a cultural language of their own. Unfortunately, blind and visually impaired users often find this part of the internet inaccessible, limiting their participation in meme culture. This Chrome extension takes the first step toward making memes more accessible by analyzing screenshots of visual content and providing auditory feedback. With the help of OpenAI’s powerful language model, this extension bridges the gap between text and image-based media, ensuring blind users can enjoy and engage with memes in an inclusive way.
+In a world where visual media dominates online interactions, memes and images have become a cultural language of their own. Unfortunately, blind and visually impaired users often find this part of the internet inaccessible, limiting their participation in meme culture. This Chrome extension takes the first step toward making memes more accessible by analyzing screenshots of visual content and providing auditory feedback. With the help of OpenAI’s powerful language model, this extension bridges the gap between text and image-based media, ensuring visually impaired users can enjoy and engage with memes in an inclusive way.
 
 ## Files Overview
 
