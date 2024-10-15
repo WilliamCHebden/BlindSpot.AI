@@ -1,0 +1,12 @@
+# Suggested Hotkeys for JAWS + Logo_Image_One Extension Integration
+
+Ctrl + Shift + S: Trigger screenshot and AI-based analysis.
+Ctrl + Shift + A: Toggle accessibility overlay for web elements.
+Ctrl + Shift + D: Read current screen content aloud using Text-to-Speech.
+Ctrl + Shift + M: Activate modal describing current canvas elements.
+
+# Suggested Hotkeys for JAWS and Python Script Integration
+
+Print Screen: Trigger screenshot capture and AI analysis.
+Ctrl + Shift + P: Pause the text-to-speech reading.
+Ctrl + Shift + R: Restart the analysis and reading from the beginning.

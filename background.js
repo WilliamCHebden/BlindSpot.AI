@@ -22,7 +22,7 @@ function captureAndSendScreenshot() {
           const apiUrl = "https://api.openai.com/v1/chat/completions";
 
           // Define the prompt to send to OpenAI
-          const promptText = "Explain this meme to a blind person."; // Add your prompt text here
+          const promptText = "Explain this meme to a blind person. Serach the web if anything is beyond your understanding. If the meme depicts a video game, name the video game featured. If it's a popular meme format, explain about that meme format. If the meme needs to be understood within the context of text written alongside the post, explain that as well."; // Add your prompt text here
 
           // Prepare the payload with the prompt and base64-encoded image
           const payload = {
